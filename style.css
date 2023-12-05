@@ -1,0 +1,22 @@
+.avt {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.row {
+    margin-top: 100px;
+    margin-left: 350px;
+    margin-right: auto;
+    width: 70%;
+}
+.bentrai {
+    margin-top: 20px;
+
+}
+.benphai {
+    margin-top: 20px;
+
+}
+body {
+    background-color:peachpuff;
+}
